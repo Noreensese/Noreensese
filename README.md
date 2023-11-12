@@ -153,9 +153,7 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 - 💼 Any Scrum Master Related Work? Please reach out, [email](mailto:noreennde91@gmail.com):)
 - 💬 Feel free to ask me about anything, i am happy to help; :)
-if you like to support my continuos improvement initiative? Then consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/kbanr101q" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 *my todoist stats:*
 <!-- TODO-IST:START -->
