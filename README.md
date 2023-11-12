@@ -1,6 +1,6 @@
 ###
 
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1670752162627080192/1698632205/1080x360)
+![I am GitHub Readme Generator's creator](https://github.com/Noreensese/Noreensese/blob/main/WhatsApp%20Image%202023-11-11%20at%206.46.48%20PM.jpeg)
 
 <div align="center">
   <img src="https://github.com/kbanr101/kbanr101/raw/main/Black%20%26%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro.gif" alt="tech" width="250">
@@ -11,47 +11,53 @@
 # My Humble Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2)](https://www.facebook.com/profile.php?id=61552699000536)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourtwitter)
-[![DataCamp](https://img.shields.io/badge/DataCamp-Profile-03EF62)](https://www.datacamp.com/portfolio/rodriguekameniban)
 
-Hello! I'm Rodrigue Ban, a certified Scrum Master with a passion for Agile methodologies and a track record of successfully leading teams to deliver high-quality products. In this portfolio, I'll share my experience, achievements, and approach to Scrum.
+
+An accomplished Agile professional and Certified Scrum Master with over 5 years’ experience with a keen interest in building agile teams, proven track record for managing and leading IT and Business projects from ideation to implementation utilizing Agile methodologies. Expert at coaching and serving teams to become self-organized and take ownership of projects.
 
 
 ## Skills
 
-| *Scrum Master Skills*           | *Development and Programming Skills* | *Data Analysis Skills* | *Version Control and Collaboration* | *Languages*   |
-|----------------------------------|----------------------------------------|-------------------------|-------------------------------------|-----------------|
-| - Scrum                           | - Python                                | - Data Analytics         | - Git                              | - French       |
-| - Kanban                          | - C++                                   | - Pandas                 | - GitHub                           | - English      |
-| - Jira                            | - JavaScript                            | - NumPy                  |                                     |               |
-| - Trello                          | - HTML                                  | - SQL                    |                                     |               |
-| - Confluence                      | - CSS                                   |                         |                                     |               |
-|                                  | - Bootstrap                             |                         |                                     |               |
+| *Scrum Master Skills*  | *SDLC Tools* | *Microsoft Office Suite* | *Version Control and Collaboration* | *Languages*   | *Virtual Communication Tools*
+|------------------------|--------------|--------------------------|-------------------------------------|---------------|------------------------------|
+| - Agile Methodologies  | - Jira      | - Power Point             | - Git                               | - French      | - Zoom
+| - Scrum Processes      | - Confluence| - Word                    | - GitHub                            | - English     | - Skype
+| - Servant leader       | - Kanban    | - Outlook                 | - Github Actions                    |               | - Slack
+| - Sprint Planning      | - Trello    | - Excel                   |                                     |               | - Google Hangout
+| - Problem Resolution   | - Rally     | - Access                  |                                     |               | - Microsoft Teams
+| - Pair programing      | - DeVops    |                           |                                     |               | 
+| - Test Authomation     | - SaFe      |
+|                        | - AWS       |
+|                        | - Terraform |
 
 ## Certification and Education
-- Certified Scrum Master (CSM) | Scrum Alliance | 10/2023
-- Bachelor of Science in Computer Science | Portland Community College | 12/2024
-- Bachelor of Art in Business Administration & Management | 10/2013
+- Proffessional scrum master (psm)
+- SaFe scrum master(ssm)
+- Masters in Business Administration | University of the West of Scotland | 09/2018
+- Bachelor degree in English law | University of Yaounde II | 
   
 ## Professional Summary
-I have over 8 years of experience in Scrum Master roles, working with cross-functional teams to deliver software products on time and within budget. I am highly skilled in Scrum, Kanban, and Agile methodologies, and I excel in facilitating daily stand-up meetings, sprint planning, and retrospectives. My strong communication and conflict resolution abilities enable me to foster a collaborative and high-performing team environment.
+I have over 5 years of experience in Scrum Master roles, working with cross-functional teams to deliver software products on time and within budget. I am highly skilled in Scrum, Kanban, and Agile methodologies, and I excel in facilitating daily stand-up meetings, sprint planning, and retrospectives. My strong communication and conflict resolution abilities enable me to foster a collaborative and high-performing team environment.
 
 ## Current Job
 
-### Role: Senior Scrum Master
-- *Company:* ArenaNet LLC
-- *Duration:* Febuary 2022 - Present
+### Role:  Scrum Master
+- *Company:* cloud bakers 66 degrees
+- *Duration:* April 2019 - Present
 
 *Key Achievements:*
-- Created dashboards using JIRA, Confluence, Trello, to track project progress Championed Agile methodologies, and resulted 25% improvement in project delivery times
-- Led Agile ceremonies, enhanced team's adherence to Scrum values, and boosted productivity by 20%
-- Drove the "GameArt" project, created top-tier casino games that increased company revenue by 15%
-- Optimized project monitoring using Atlassian tools to reduce tracking discrepancies by 30%
-- Pioneered the "POS-GAB" project and collaborated with Square System and NTSOFT USA to innovate in the Electronic Golf Cars domain
-- Facilitated inter-departmental strategic meetings that enhanced product-market fit by 40%
+- Created dashboards using JIRA, Confluence,  to track project progress Championed Agile methodologies, and resulted to 25% improvement in project delivery times
+- Led Agile ceremonies, enhanced team's adherence to Scrum values, and principles
+-	Facilitate and host scrum events (Sprint planning, Daily scrum, Sprint review, Sprint retrospective) and other Agile activities (Backlog refinement/grooming, release planning, and 
+  story workshop kickoff details), This has led to a smooth flow of the Agile/scrum process, value optimization, and team's velocity. 
+- Proactively identify and help remove impediments, risk, and blockers hindering the team and project's progress by ensuring there is a clear understanding of the project requirements 
+  from SME, PO and stakeholders and customers. This has greatly reduced the amount of scope creep, dependencies, and bugs.
+- Facilitate internal and external communication, improve transparency and radiate information by documenting review findings, ensure awareness of conclusion and prepare a report of 
+  findings for compliance and business management with the use of Confluence.10% fast customer feedback has been greatly influenced by this.
+- Coach the scrum team on cross-functional collaboration, self-organizing skills set and self-managing, knowledge transfer is gained through the implementation of Pair Programming and 
+  transparent effective communication between on-shore and off-shore teams as well as internally and externally.
 - Cultivated a positive work environment and reduced team turnover rate by 50%
-- Trained 10+ Product Owners in Agile principles and led a more streamlined backlog process
+- Track and effectively communicate teams' progress during sprint/releases using the Burndown chart, Burn-up Chart and velocity chart to the team and stakeholders.
 - Synchronized with Scrum Masters across teams and established a unified Agile approach
 - Implemented safeguards against distraction and ensured 95% on-time delivery rate for sprints
 
@@ -61,28 +67,50 @@ I have over 8 years of experience in Scrum Master roles, working with cross-func
 
 ## Case Studies
 
-### Project 1: GameArt
+### Project : 
+Working at cloud bakers, I have been able to work for different customers with a pod of cloud engineers. Our projects are centered around migration, designing, and architecting solutions on different cloud platforms for a variety of customers.This was to save on operational costs, increased performance & security.. I supported and worked with a team of developers, engineers, data base administrator, and solution architect.
 
-- *Company:* Amed Biotech
-- *Duration:* December 2019 - January 2022
-- *Role:* Technical Scrum Master
-
-*Key Achievements:*
-
-- Led the Agile transformation of a 10-member development team, resulting in a 30% increase in project velocity and a 20% reduction in defects.
-- Implemented Scrum and Kanban practices, including sprint planning, daily stand-ups, and backlog grooming, resulting in improved transparency and collaboration.
-- Coordinated with stakeholders and product owners to prioritize and refine the product backlog, leading to better alignment with business goals.
-
-### Project 2: POS_GAB
-
-- *Company:* Amed Biotech
-- *Duration:* March 2014 - Novenber 2019
-- *Role:* Technical Scrum Master
+- *Company:* cloud bakers 66 degrees
+- *Duration:* April 2019 - present
+- *Role:* Scrum Master
 
 *Key Achievements:*
 
-- Guided a cross-functional team of designers, developers, and QA testers to launch a mobile app ahead of schedule, achieving a 4.5-star rating in app stores.
-- Organized daily stand-up meetings, sprint planning sessions, and retrospectives to improve team productivity and identify areas for continuous improvement.
+- Increased understanding of projects for team members and organization by suggesting techniques for writing user stories. Identified dependencies, impediments, and coordinated with 
+  product owner, development team members, to find a solution
+- Implemented Scrum  practices, including sprint planning, daily stand-ups, and backlog grooming, resulting in improved transparency and collaboration.
+- Coordinated with  product owners to prioritize and refine the product backlog, leading to better alignment with business goals.
+
+
+  ### Role:  Scrum Master
+- *Company:* TheKey Bank
+- *Duration:* January,2017 - March,2019
+
+*Key Achievements:*
+- Established trust within the scrum team members such that the 3 pillars of scrum; (Transparency, Inspection and Adaptation) can easily be implemented, not only to allow work to move 
+  from left to right, but equally for work to flow from right to left.This has enabled early detection of dependencies, bugs and defects and an early fix before end of the sprint.
+- Initiated Agile methodology using a scrum framework throughout the organization segments from executive to software to marketing and across by making sure requirements are gathered 
+  from the stakeholders and there is continuous integration and enhancement on the MVP.
+-	Work with the Product Owner to properly refine and prioritize the Product backlog using the Moscow technique which goes a long way to save time.
+- Serve as a main point of contact to drive effective communication throughout all project phases and enhance trust and transparency.
+- Provided regular coaching and mentoring to team members, promoting self-organization and continuous improvement.
+- Facilitated effective communication and collaboration among team members, identifying and resolving potential roadblocks.
+- Synchronized with Scrum Masters across teams and established a unified Agile approach
+  
+
+
+### Project 2:Enhancing and updating their mobile banking services so that their customers can be able to open registered investment accounts, do Easy save after every transfer, and adding new features. 
+
+- *Company:* TheKey Bank
+- *Duration:* January 2017 - March 2019
+- *Role:* Scrum Master
+
+*Key Achievements:*
+
+- Recommended changes and utilized Scrum and Kanban methodologies to improve efficiency and productivity of Scrum team. Increased understanding of projects for team members and 
+  organization by creating user stories 
+- Increased understanding of projects for team members and organization by creating user stories. Identified dependencies and coordinated with product owner, development team members, 
+  and stakeholders to support the release planning. 
 - Collaborated with the product owner to prioritize and adapt to changing requirements, resulting in a flexible and responsive development process.
 
 ## Blog Posts and Articles
@@ -123,7 +151,7 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 <!--END_SECTION:waka-->
-- 💼 Any Scrum Master Related Work? Please reach out, [email](mailto:banjobaplication@gmail.com):)
+- 💼 Any Scrum Master Related Work? Please reach out, [email](mailto:noreennde91@gmail.com):)
 - 💬 Feel free to ask me about anything, i am happy to help; :)
 if you like to support my continuos improvement initiative? Then consider buying me a coffee/tea 🥺👉👈
 
