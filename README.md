@@ -99,7 +99,8 @@ Working at cloud bakers, I have been able to work for different customers with a
   
 
 
-### Project 2:Enhancing and updating their mobile banking services so that their customers can be able to open registered investment accounts, do Easy save after every transfer, and adding new features. 
+### Project 2:
+Enhancing and updating their mobile banking services so that their customers can be able to open registered investment accounts, do Easy save after every transfer, and adding new features. 
 
 - *Company:* TheKey Bank
 - *Duration:* January 2017 - March 2019
